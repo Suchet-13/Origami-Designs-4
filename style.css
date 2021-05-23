@@ -1,0 +1,49 @@
+h1{
+    color:darkorange
+    
+}
+h2{
+    color:darkorange
+}
+h3{
+    color:darkorange;
+}
+
+*{
+       
+    background-color:rgb(255, 255, 255);
+}
+
+p,h1{
+    text-align:center;
+}
+
+.animals{
+    color:darkorange
+      
+}
+
+.animals{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+    background-color:dimgray;
+    
+}
+
+
+p,h2{
+    text-align:center;
+}
+
+p,h3{
+    text-align: left;
+}
+
+a{
+    text-align:justify;
+    padding-right:30px;
+    font-size:15px;
+}
+
+
